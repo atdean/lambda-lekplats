@@ -1,0 +1,4 @@
+hidden.env
+.terraform
+node_modules/
+.idea/
